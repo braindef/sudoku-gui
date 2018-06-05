@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SudokuSolverMask.Properties.Resources.resources
+obj\Debug\SudokuSolverMask.csproj.GenerateResource.Cache
+bin\Debug\SudokuSolverMask.exe
+bin\Debug\SudokuSolverMask.pdb
+obj\Debug\SudokuSolverMask.exe
+obj\Debug\SudokuSolverMask.pdb
+bin\Release\SudokuSolverMask.exe
+bin\Release\SudokuSolverMask.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SudokuSolverMask.Properties.Resources.resources
+obj\Release\SudokuSolverMask.csproj.GenerateResource.Cache
+obj\Release\SudokuSolverMask.exe
+obj\Release\SudokuSolverMask.pdb
